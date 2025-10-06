@@ -20,8 +20,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: RAVIPRASATH K
-RegisterNumber:  212224230225 */
+Developed by: A MUHILAN
+RegisterNumber:  25015918*/
 ```
 ```
 from google.colab import drive
